@@ -59,8 +59,8 @@ flutter run
 ## 📫 Kontak / Reach Me
 Jika ingin berhubungan, kamu bisa menghubungi saya melalui:
 
-- 🔗 **LinkedIn:** [Nanda Arianto](https://www.linkedin.com/in/nanda-arianto-0133a6290/)  
-- 📸 **Instagram:** [@nandaarianto_](https://www.instagram.com/nandaarianto_/)  
-- 📘 **Facebook:** [Nanda Arianto](https://www.facebook.com/NandaArianto15?locale=id_ID)
+- **LinkedIn:** [Nanda Arianto](https://www.linkedin.com/in/nanda-arianto-0133a6290/)  
+- **Instagram:** [@nandaarianto_](https://www.instagram.com/nandaarianto_/)  
+- **Facebook:** [Nanda Arianto](https://www.facebook.com/NandaArianto15?locale=id_ID)
 
 > Saya terbuka untuk diskusi, pertanyaan, maupun kolaborasi.
