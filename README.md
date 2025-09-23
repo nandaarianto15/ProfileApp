@@ -1,32 +1,31 @@
-# ProfileApp - Aplikasi Profil Mobile (Flutter)
+# ToDoListApp - Aplikasi To-Do List Mobile (Flutter)
 
 ## 📖 Deskripsi
-ProfileApp adalah aplikasi mobile sederhana untuk menampilkan profil pengguna.  
-Aplikasi ini menampilkan informasi dasar pengguna dan deskripsi per role secara interaktif.  
+ToDoListApp adalah aplikasi mobile sederhana untuk mencatat, mengatur, dan mengelola daftar tugas harian.  
+Aplikasi ini membantu pengguna agar lebih produktif dengan tampilan yang simpel dan modern.  
 
 **Fitur utama:**
-- Menampilkan informasi profil.
-- Tampilan modern dengan **tema gelap**.
-- Foto profil berbentuk lingkaran (CircleAvatar).
-- **Card deskripsi role yang dapat di-swipe** menggunakan **PageView**.
-- Deskripsi panjang dapat **di-scroll** di dalam Card.
-- Navigasi role interaktif dengan highlight untuk role aktif.
+- Menambah dan menghapus tugas.
+- Tampilan modern.
+- Tandai tugas sebagai **selesai** atau **belum selesai**.
+- Data tugas ditampilkan menggunakan **ListView** yang interaktif.
+- UI responsif dengan desain sederhana dan nyaman digunakan.
 
 ---
 
 ## 🖼 Tampilan Aplikasi
 
-### 1. Halaman Utama
-<img src="assets/forReadme/1.png" alt="Halaman Profil" width="300"/>
+### 1. Tampilan Utama
+<img width="300" alt="Screenshot 2025-09-23 165942" src="https://github.com/user-attachments/assets/95c12881-8240-4ef7-9579-b012bde53099" />
 
-### 2. Deskripsi Role (Interaktif)
-**Swipe atau klik label role untuk berpindah. Scroll jika teks panjang.**
+### 2. Tampilan Jika Ada Tugas
+<img width="300" alt="Screenshot 2025-09-23 170052" src="https://github.com/user-attachments/assets/6b5843b5-a9fd-4373-a30e-4d45324a62cc" />
 
-| Student | Programmer |
-|---------|------------|
-| <img src="assets/forReadme/2.png" alt="Student Role" width="250"/> | <img src="assets/forReadme/3.png" alt="Programmer Role" width="250"/> |
+### 3. Tampilan Jika Ada Tugas Selesai
+<img width="300" alt="Screenshot 2025-09-23 170115" src="https://github.com/user-attachments/assets/b6746e62-5f54-4753-9ac1-bd2c9b2e3493" />
 
-> Dengan PageView, pengguna bisa **swipe antar role**, dan untuk konten yang panjang, teks **dapat di-scroll di dalam Card**.
+### 4. Tampilan Untuk Menghapus Tugas
+<img width="300" alt="Screenshot 2025-09-23 170126" src="https://github.com/user-attachments/assets/655d8971-c8b3-439f-904e-c4c9152d64bb" />
 
 ---
 
@@ -40,12 +39,12 @@ Aplikasi ini menampilkan informasi dasar pengguna dan deskripsi per role secara 
 ## 🚀 Cara Menjalankan Aplikasi
 **1. Clone repositori**
 ```bash
-git clone https://github.com/nandaarianto15/ProfileApp.git
+git clone hhttps://github.com/nandaarianto15/ToDoList-MobileApp.git
 ```
   
 **2. Masuk ke folder proyek**
 ```bash
-cd ProfileApp
+cd ToDoListApp-MobileApp
 ```
 **3. Jalankan aplikasi di emulator atau device**
 ```bash
